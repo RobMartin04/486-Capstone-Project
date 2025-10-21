@@ -15,9 +15,9 @@ Our team is making a full stack application that will act as a Field Service Man
 **Primary Metric**: Reduce average job scheduling time by 50%.  
 
 ### User Story 😀
-**As a** homeowner with a broken air conditioning system  
-**I want to** quickly request emergency HVAC service and track the technician's arrival  
-**So that** I can get my AC repaired as soon as possible and stay informed throughout the process  
+**As a** HVAC Business Owner  
+**I want to** efficiently manage service requests, dispatch technicians, and track job completion  
+**So that** I can maximize technician productivity, ensure customer satisfaction, and grow my business profitably  
 
 ### Minimum Acceptance Criteria ✅
 
