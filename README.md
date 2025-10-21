@@ -22,10 +22,9 @@ Our team is making a full stack application that will act as a Field Service Man
 ### Minimum Acceptance Criteria ✅
 
 ##### Service Request Creation
-
-Customer can submit a service request with basic information (name, address, contact, issue description)
-System generates a unique ticket number
-Customer receives confirmation of request
+* Customer can submit a service request with basic information (name, address, contact, issue description)
+* System generates a unique ticket number
+* Customer receives confirmation of request
 
 ##### Technician Assignment
 * Dispatcher can manually assign an available technician to the service request
