@@ -1,4 +1,4 @@
-## Team Tortuga 🐢 486 Capstone
+## Team Tortugas 🐢 486 Capstone
 ### Samuel Senecal, Jacob Fielder, Robert Martin, Hayden Duran
 
 ### Entry Into Product 🔽🔽🔽
