@@ -10,7 +10,7 @@ Our team is making a full stack application that will act as a Field Service Man
 ### BLUF 💭
 
 **What**: A full-stack web app that enables HVAC companies to manage service requests, technicians, and customer appointments efficiently.  
-**Who**: HVAC office managers, dispatchers, technicians, and customers.  
+**Who**: HVAC office managers, dispatchers, and technicians.  
 **Value**: Reduces scheduling conflicts, paperwork, and communication gaps by providing a unified digital platform for field service coordination.  
 **Primary Metric**: Reduce average job scheduling time by 50%.  
 
