@@ -9,15 +9,15 @@ Our team is making a full stack application that will act as a Field Service Man
 
 ### BLUF 💭
 
-**What**: A full-stack web app that enables HVAC companies to manage service requests, technicians, and customer appointments efficiently. 
-**Who**: HVAC office managers, dispatchers, technicians, and customers. 
-**Value**: Reduces scheduling conflicts, paperwork, and communication gaps by providing a unified digital platform for field service coordination. 
-**Primary Metric**: Reduce average job scheduling time by 50%. 
+**What**: A full-stack web app that enables HVAC companies to manage service requests, technicians, and customer appointments efficiently.  
+**Who**: HVAC office managers, dispatchers, technicians, and customers.  
+**Value**: Reduces scheduling conflicts, paperwork, and communication gaps by providing a unified digital platform for field service coordination.  
+**Primary Metric**: Reduce average job scheduling time by 50%.  
 
 ### User Story 😀
-**As a** homeowner with a broken air conditioning system
-**I want to** quickly request emergency HVAC service and track the technician's arrival
-**So that** I can get my AC repaired as soon as possible and stay informed throughout the process
+**As a** homeowner with a broken air conditioning system  
+**I want to** quickly request emergency HVAC service and track the technician's arrival  
+**So that** I can get my AC repaired as soon as possible and stay informed throughout the process  
 
 ### Minimum Acceptance Criteria ✅
 
